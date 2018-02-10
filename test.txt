@@ -14,6 +14,7 @@ Creating a new branch is quick & simple.
 Creating a new branch is quick and simple.
 >>>>>>> feature1
 test dev
+<<<<<<< HEAD
 test dev bug
 test feature
-test duorenxiezuo1
+test duorenxiezuo
